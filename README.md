@@ -2,6 +2,10 @@
 
 A  modern task management application built with React, Vite, and Tailwind CSS. This application allows users to create, edit, complete, and delete tasks with a clean, intuitive interface.
 
+
+## Repository
+[GitHub Repository](https://github.com/Adrish24/Todo-List-assignment)
+
 ## Features
 
 - **Create Tasks**: Add new tasks with unique IDs
@@ -78,19 +82,7 @@ npm run dev
 
 The application will be available at `http://localhost:5173/`
 
-### Building for Production
 
-Create an optimized production build:
-
-```bash
-npm run build
-```
-
-Preview the production build locally:
-
-```bash
-npm run preview
-```
 
 ## How It Works
 
